@@ -1,0 +1,236 @@
+
+
+body {
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: 'Frijole', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+h4 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+p, ul, h4 {
+  font-family: 'Muli', sans-serif;
+  font-size: 16px;
+}
+
+
+.btn-default {
+  padding: 10px 50px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-weight: bold;
+  background-color: #246068;
+  color: #eee;
+  border: 1px solid #012E34;
+}
+
+.row{
+margin: 0px;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  border-radius: 0px;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #eee;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+  color: #FFAAAA;
+}
+
+.navbar-default .navbar-brand {
+  color: #eee;
+  font-family: 'Frijole', sans-serif;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+  color: #FFAAAA;
+}
+
+.navbar-default {
+  background-color: #801515;
+  border: none;
+  border-bottom: 2px solid #550000;
+}
+
+.shadow {
+  box-shadow: 0px 0px 20px #ccc;
+}
+
+.spacer {
+  padding-bottom: 75px;
+}
+
+/* News Section */
+#news {
+  background-color: #222;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: -20px;
+}
+
+/* About SEction */
+#about {
+  background-color: #eee;
+  padding: 50px 0px;
+  border-bottom: 2px solid #ddd;
+}
+
+#about h2 {
+  color: #801515;
+}
+/* Policy Section */
+
+#policies {
+  background-color: #eee;
+  padding: 50px 0px;
+}
+
+#policies h2 {
+  color: #801515;
+}
+
+#policies ul {
+  padding: 15px 0px;
+}
+
+#policies li {
+  padding: 5px 0px;
+}
+/* Recruitment Section */
+#recruitment {
+  background-color: #222;
+  padding: 50px 0px;
+  color: #eee;
+}
+
+#recruitment h2 {
+  color: #801515;
+}
+
+#recruitment .row {
+  padding-top: 50px;
+}
+
+#recruitment img {
+  padding-top: 15px;
+}
+
+.low {
+  opacity: 0.2
+}
+
+.med {
+  opacity: 0.5
+}
+
+.death-knight, .demon-hunter, .druid, .hunter, .mage, .monk, .paladin, .priest, .rogue, .shaman, .warlock, .warrior {
+  font-family: 'Frijole', sans-serif;
+}
+
+.death-knight {
+  color: #C41F3B;
+}
+
+.demon-hunter {
+  color: #a330c9;
+}
+
+.druid {
+  color: #ff7d0a;
+}
+
+.hunter {
+  color: #abd473;
+}
+
+.mage {
+  color: #69ccf0;
+}
+
+.monk {
+  color: #00ff96;
+}
+
+.paladin {
+  color: #f58cba;
+}
+
+.priest {
+  color: #fff;
+}
+
+.rogue {
+  color: #fff569;
+}
+
+.shaman {
+  color: #0070de;
+}
+
+.warlock {
+  color: #9482c9;
+}
+
+.warrior {
+  color: #c79c6e;
+}
+
+/* Footer */
+#footer {
+  background-color: #801515;
+  text-align: center;
+  padding: 30px 0px;
+  color: #eee;
+  border-top: 2px solid #550000;
+  font-size: 10px;
+}
+
+#footer p, #footer li {
+  font-size: 13px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: #eee;
+}
+
+#footer a:hover {
+  color: #FFAAAA
+}
+
+.progress-bar-background {
+  background-color: #550000;
+}
+
+#copyright {
+  background-color: #801515;
+  color: #eee;
+  }
+
+  #copyright p{
+    font-size: 12px;
+  }
+
+  #copyright a {
+    text-decoration: none;
+    color: #eee;
+  }
+
+  #copyright a:hover {
+    color: #FFAAAA
+  }
