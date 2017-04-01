@@ -2,6 +2,8 @@
 
 body {
   text-align: center;
+  padding-top: 70px;
+  position: relative;
 }
 
 h1, h2, h3 {
